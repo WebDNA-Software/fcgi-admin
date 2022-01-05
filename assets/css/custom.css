@@ -1,0 +1,54 @@
+/* —- use this file to add custom css classes —— */
+
+.dash-title-10 {
+  margin-bottom: 10px; 
+}
+  
+.dash-title-20 {
+  margin-bottom: 20px; 
+}
+  
+.webdna-logo {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: #515151;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; 
+}
+
+.webdna-logo:focus, .webdna-logo:active, .webdna-logo:hover {
+  color: #515151;
+  text-decoration: none; 
+}
+
+.webdna-logo i {
+	color: #576177;
+	font-size: 27px;
+	margin-right: 10px; 
+}
+    
+textarea {
+	border-top-color: #d7dae1;
+	border-bottom-color: #d7dae1;
+	border-left-color: rgba(0,0,0,0);
+	border-right-color: rgba(0,0,0,0);
+	box-sizing: border-box;
+}
+
+.bt-0 {border-top: 0px !important;}
+.wp-150 {
+	width: 150px !important;
+}
+.text-large {
+	font-size: 16px;
+}
+.text-bold {
+	font-weight: bold;
+}

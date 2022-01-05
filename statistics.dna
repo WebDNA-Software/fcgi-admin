@@ -1,0 +1,37 @@
+[!]
+-- WebDNA fcgi admin --
+-- Version 8.0.0 --
+-- 2021-12-30 --
+[/!]
+<!-- HAS_WEBDNA_TAGS -->
+[protect admin]
+[text]passthru=[fileinfo file=^../AuthenticateChecker][exists][/fileinfo][/text]
+<!doctype html>
+<html lang="en">
+	<head>
+		[text]PAGEID=statistics[/text]
+		[include file=include/site/head01.inc]
+    <title>WebDNA fcgi Admin</title>
+	</head>
+	<body>
+		<div class="dash">
+			[include file=include/site/nav01.inc]
+			<div class="dash-app">
+				[include file=include/site/toolbar01.inc]
+				<main class="dash-content">
+					<div class="container-fluid">
+						[switch value=[lookup db=../Users.db&value=UPDATEDONE&lookInField=user&returnField=user&notFound=]]
+							[case value=UPDATEDONE]
+								[include file=include/pages/statistics.inc]
+							[/case]
+							[default]
+								[include file=include/pages/update-fail.inc]
+							[/default]
+						[/switch]
+					</div>
+				</main>
+			</div>
+		</div>
+		[include file=include/site/scripts01.inc]
+	</body>
+</html>
