@@ -106,7 +106,7 @@
 				<div class="spur-card-title float-left"><h3>WebDNA update and upgrades</h3></div>
 			</div>
 			<div class="card-body text-center">
-				<a href="https://www.webdna.us/page.dna?numero=1032" class="btn btn-danger" target="_blank"><i class="fas fa-cloud-download-alt mr-2"></i>All WebDNA downloads available here</a>
+				<a href="https://downloads.webdna.us/" class="btn btn-danger" target="_blank"><i class="fas fa-cloud-download-alt mr-2"></i>All WebDNA downloads available here</a>
 			</div>
 		</div>
 	</div>

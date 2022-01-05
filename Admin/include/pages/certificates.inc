@@ -66,6 +66,6 @@
 [!]-------------------  -----------------[/!]
 <div class="row mb-4">
 	<div class="col-lg-12 text-center">
-		<a href="https://www.webdna.us/page.dna?numero=1032" class="btn btn-danger" target="_blank"><i class="fas fa-cloud-download-alt mr-2"></i>Purchase a WebDNA certificate here</a>
+		<a href="https://downloads.webdna.us/licence" class="btn btn-danger" target="_blank"><i class="fas fa-cloud-download-alt mr-2"></i>Purchase a WebDNA certificate here</a>
 	</div>
 </div>

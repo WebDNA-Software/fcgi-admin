@@ -62,7 +62,7 @@
 							</tr>
 							<tr>
 								<td class="bg-light text-center">
-									<a href="https://www.webdna.us/time.dna" target="_blank">
+									<a href="javascript:popUp('Help.dna#Time')" target="_blank">
 										<i class="fas fa-question-circle"></i>
 									</a>
 								</td>
