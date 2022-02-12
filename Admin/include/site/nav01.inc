@@ -105,12 +105,12 @@
 				<a href="https://docs.webdna.us/" target="_blank" class="dash-nav-dropdown-item">
 					Tech. Reference
 				</a>
-				<a href="http://www.webdna.us/page.dna?numero=55" target="_blank" class="dash-nav-dropdown-item">
+				<a href="http://docs.webdna.us/archives" target="_blank" class="dash-nav-dropdown-item">
 					Talk List Archives
 				</a>
 			</div>
 		</div>
-		<a href="http://www.webdna.us/page.dna?numero=38" target="_blank" class="dash-nav-item">
+		<a href="https://webdna.us/about" target="_blank" class="dash-nav-item">
 			<i class="fas fa-info"></i> About
 		</a>
 		<a href="http://store.webdna.us" target="_blank" class="dash-nav-item">

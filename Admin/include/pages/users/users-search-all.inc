@@ -3,11 +3,13 @@
 -- Version 8.0.0 --
 -- 2021-12-30 --
 [/!]
+
 <div class="row">
 	<div class="col-lg-12 mb-2">
 		<h2 class="dash-title">WebDNA User Search Results</h2>
 	</div>
 </div>
+
 [search db=Users.db&max=[varMAX]&startat=[start]&[formvariables name=__&exact=f][getchars start=3][name][/getchars]=[url][value][/url]&[/formvariables]]
 	<div class="row mb-4">
 		<div class="col-lg-12">

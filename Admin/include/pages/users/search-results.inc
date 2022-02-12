@@ -20,6 +20,9 @@
 					<input type="hidden" name="task" value="delete-user">
 					<input type="hidden" name="dummy" value="">
 					<input type="hidden" name="user" value="[url][user][/url]">
+					
+					<input type="hidden" name="__neuserdata" value="UPDATEDONE">
+					
 					<button type="submit" class="btn btn-danger py-1"><i class="fas fa-trash"></i></button>
 				</form>
 			</td>

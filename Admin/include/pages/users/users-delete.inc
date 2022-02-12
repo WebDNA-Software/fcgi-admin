@@ -1,0 +1,1 @@
+[delete db=Users.db&eqUSERdatarq=[url][user][/url]&max=1]
