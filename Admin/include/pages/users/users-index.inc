@@ -2,7 +2,7 @@
 -- WebDNA fcgi admin include users --
 -- Version 8.0.0 --
 -- 2021-12-30 --
--- bug fix peroted by scott tolley 2022-02-12
+-- bug fix reported by scott tolley 2022-02-12
 -- added omitted delete user 2022-02-12
 [/!]
 [!]
